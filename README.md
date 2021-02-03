@@ -1,7 +1,5 @@
 # Digital Scholarship Portfolio: Jem Generalao
 
-Welcome to my online portfolio for IASC 2P02!
-
 ## Interactive Study Guide
 
 Explore my interactive study guide [here](InteractiveStudyGuide.html).
