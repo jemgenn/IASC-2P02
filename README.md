@@ -1,5 +1,7 @@
 # Digital Scholarship Portfolio: Jem Generalao
 
+![](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/91398351_239929160471116_5513164495255502848_n.jpg?_nc_cat=103&ccb=2&_nc_sid=174925&_nc_ohc=htW7QRo3hYcAX8-6Yer&_nc_ht=scontent-yyz1-1.xx&oh=50cc90d14534d03387e4db2801d7d0db&oe=604187DA)
+
 ## Interactive Study Guide
 
 Explore my interactive study guide [here](InteractiveStudyGuide.html).
