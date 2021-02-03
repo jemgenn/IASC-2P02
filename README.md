@@ -1,7 +1,5 @@
 # Digital Scholarship Portfolio: Jem Generalao
 
-![](https://media-exp1.licdn.com/dms/image/C4D03AQEeoNI2wWh8Yg/profile-displayphoto-shrink_200_200/0/1552150647184?e=1613606400&v=beta&t=fqgb5op9ftaKTa2nVvyxdAhEHfB6lVxHz4kw7M4aR8I)
-
 Welcome to my online portfolio for IASC 2P02!
 
 ## Interactive Study Guide
